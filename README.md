@@ -16,7 +16,22 @@
 
 - 📫 How to reach me **issayas.mirach@unitn.it**
 
-- ⚡ Fun fact **Ask me how robots "see" the world when the GPS signal drops completely!**
+- ⚡ Fun fact **Ask me how autonmous object "see" the world when the GPS signal drops completely!**
+
+- ---
+
+## 🛠️ Core Focus Areas
+
+### 📡 Radio-Based Navigation
+* **Signal Processing:** Working with RF signals, AoA (Angle of Arrival), and ToA (Time of Arrival) for positioning.
+* **GPS-Denied Localization:** Utilizing alternative radio beacons and SDRs to map environments.
+
+### 👁️ Image Processing & Vision
+* **Visual Odometry:** Tracking camera movement through sequential images to estimate trajectory.
+* **Feature Extraction:** Using algorithms like SIFT, SURF, or ORB for landmark recognition and mapping.
+
+### 🔄 Sensor Fusion
+* Combining radio frequency data with visual inputs using **Extended Kalman Filters (EKF)** to create highly accurate, redundant navigation systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
